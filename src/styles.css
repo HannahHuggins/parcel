@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+button {
+    opacity: 0.7;
+    font-size: 40px;
+}
+
+button:hover {
+    opacity: 1;
+}

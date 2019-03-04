@@ -1,0 +1,25 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "\"initialised package project\"",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Hannah Huggins",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HannahHuggins/parcel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HannahHuggins/parcel/issues"
+  },
+  "homepage": "https://github.com/HannahHuggins/parcel#readme"
+}
